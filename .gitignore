@@ -1,3 +1,6 @@
+# Npmrc for local developer
+.npmrc
+
 # Logs
 logs
 *.log
